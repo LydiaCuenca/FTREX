@@ -1,0 +1,8 @@
+numpy
+pandas
+plotly
+scipy
+streamlit
+numba
+pillow 
+kaleido==0.2.1
