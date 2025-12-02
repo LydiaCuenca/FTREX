@@ -2,7 +2,7 @@
 Simple FTIR spectrum analyzer, and viewer with a nice GUI
 
 **FTIR viewer and figure generator designed for R&D, data analysis, and publication‑ready graphics.**
-
+![Ejemplo de gráfico FTIR Spectrum Explorer](https://raw.githubusercontent.com/LydiaCuenca/FTREX/main/images/Example-TREX.png)
 ---
 
 ## Table of Contents
